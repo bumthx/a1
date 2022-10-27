@@ -2,7 +2,7 @@
 
 ****
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 **LuckyFi World Games** is excited to introduce our future plans for the $FLI token. In this outline, we will describe some of the existing measures and burning mechanisms we have designed, and our future plans for burning $FLI tokens. With these token-burning mechanisms, we will improve the **LuckyFi World Games** ecosystem and the future volatility of the $FLI token.
 

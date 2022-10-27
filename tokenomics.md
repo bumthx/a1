@@ -24,4 +24,4 @@ Unlocker: 975.700 (5%)
 
 &#x20;Burnt: 8.976.440 (46%)
 
-<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
