@@ -1,0 +1,17 @@
+# Table of contents
+
+* [Page 1](README.md)
+* [Introduction](introduction/README.md)
+  * [Platform](introduction/platform.md)
+* [🚀Roadmap](roadmap.md)
+* [Ecosystem](ecosystem/README.md)
+  * [LuckyFI Lottery](ecosystem/luckyfi-lottery.md)
+  * [Prize fund](ecosystem/prize-fund/README.md)
+    * [Keno Quickly](ecosystem/prize-fund/keno-quickly.md)
+    * [655](ecosystem/prize-fund/655.md)
+  * [Staking](ecosystem/staking.md)
+  * [NFT](ecosystem/nft.md)
+* [Tokenomics](tokenomics.md)
+* [Burning Mechanism](burning-mechanism.md)
+* [Referral Program](referral-program.md)
+* [Social](social.md)
