@@ -14,4 +14,5 @@
 * [Tokenomics](tokenomics.md)
 * [Burning Mechanism](burning-mechanism.md)
 * [Referral Program](referral-program.md)
+* [Tax and fee system](tax-and-fee-system.md)
 * [Social](social.md)
