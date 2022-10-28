@@ -4,7 +4,7 @@
 
 Staking là việc lưu trữ 1 số lượng đồng tiền kỹ thuật số nhất định trong ví của 1 dự án Blockchain trong 1 khoảng thời gian cụ thể để nhận được phần thưởng. Số lượng phần thưởng phụ thuộc vào sự đầu tư ban đầu của bạn, bao gồm: Số lượng coin stake, thời lượng stake. Staking khởi động sau khi kết thúc chương trình Airdrop
 
-Lãi suất (APR – 45% và APY) APR (Annual percentage rate) - là viết tắt của từ tỷ lệ phần trăm hằng năm, thường áp dụng với số tiền bạn vay APY (Annual Percentage Yield) được viết tắt của từ lợi nhuận phần trăm hằng năm&#x20;
+Lãi suất (APR và APY) APR (Annual percentage rate) - là viết tắt của từ tỷ lệ phần trăm hằng năm, thường áp dụng với số tiền bạn vay APY (Annual Percentage Yield) được viết tắt của từ lợi nhuận phần trăm hằng năm&#x20;
 
 Lợi nhuận của người chơi tính theo thời gian 1 tuần, 1 tháng, 3 tháng để nhận được tỷ suất lợi nhuận Tham gia sớm nhận được tỷ suất lợi nhuận cao
 
